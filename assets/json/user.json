@@ -1,0 +1,13 @@
+{
+    "user": {
+      "_id": "12345",
+      "username": "john_doe",
+      "email": "john.doe@example.com",
+      "profilePic": "https://example.com/profile.jpg",
+      "posts": 10,
+      "followers": ["67890", "54321", "11223"]
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+  }
+  
